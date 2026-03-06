@@ -35,8 +35,6 @@ A robust and premium Node.js integration for Safaricom's **Daraja API (MPESA)**.
 2. **Install dependencies:**
    ```bash
    npm install
-   # OR
-   pnpm install
    ```
 
 3. **Configure Environment Variables:**
