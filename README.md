@@ -34,7 +34,7 @@ A robust and premium Node.js integration for Safaricom's **Daraja API (MPESA)**.
 
 2. **Install dependencies:**
    ```bash
-   npm install
+   pnpm install
    ```
 
 3. **Configure Environment Variables:**
@@ -43,10 +43,10 @@ A robust and premium Node.js integration for Safaricom's **Daraja API (MPESA)**.
 4. **Run the server:**
    ```bash
    # Development mode (with nodemon)
-   npm run dev
+   pnpm run dev
    
    # Production mode
-   npm start
+   pnpm start
    ```
 
 ---
