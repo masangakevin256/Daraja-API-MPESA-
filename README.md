@@ -18,7 +18,7 @@ A robust and premium Node.js integration for Safaricom's **Daraja API (MPESA)**.
 ## 📋 Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
-- [NPM](https://www.npmjs.com/) or [PNPM](https://pnpm.io/)
+- [PNPM](https://pnpm.io/)
 - [Ngrok](https://ngrok.com/) (for local testing of callbacks)
 - [Daraja Developer Account](https://developer.safaricom.co.ke/)
 
